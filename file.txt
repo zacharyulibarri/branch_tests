@@ -1,1 +1,2 @@
-hello world! this is the master change. 
+hello world! this is the master change.
+this is the blaze change.
